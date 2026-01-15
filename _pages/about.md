@@ -34,11 +34,9 @@ redirect_from:
 ## 🎓 教育背景 (Education)
 
 *   **2023 - 2024** | **新加坡国立大学 (National University of Singapore)**
-    *   硕士 (Master of Science) | 能源系统 (Energy Systems)
-    *   主修方向：可再生能源、能源系统 (Renewable Energy, Energy Systems)
+    *   硕士 (Master of Science) | 能源系统 (Energy Systems) | 可再生能源、能源系统 (Renewable Energy, Energy Systems)
 *   **2018 - 2022** | **上海交通大学 (Shanghai Jiao Tong University)**
-    *   学士 (Bachelor of Engineering) | 生物医学工程 (Biomedical Engineering)
-    *   *注：2022 年转入 **智慧能源创新学院 (College of Smart Energy)** 进行本科高年级转向培养，主修 **新能源 + AI** 方向。*
+    *   学士 (Bachelor of Engineering) | 生物医学工程 (Biomedical Engineering) | 2021 年转入 **智慧能源创新学院 (College of Smart Energy)** 
 
 ## 🔬 科研经历 (Research Experience)
 
