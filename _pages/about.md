@@ -74,7 +74,7 @@ redirect_from:
 ## 📜 学术成果 (Publications)
 
 1.  **A novel spatiotemporal relation fused network for solar photovoltaic power forecasting**
-    *   Z Liu, S Li, J Ding, Y Zheng, **B Chen**, Y He
+    *   Z Liu, S Li, J Ding, Y Zheng, **B Chen**（第一通讯作者；导师为一作）, Y He
     *   *Energy and AI*, 100676, **2026**
 2.  **A novel spatiotemporal relation fused network for solar photovoltaic power prediction**
     *   L Tang, **B Chen**, Z Liu
