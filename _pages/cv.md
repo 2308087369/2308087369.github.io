@@ -36,7 +36,7 @@ redirect_from:
         *   Led algorithm selection, feature/model optimization, API packaging, and deployment for day-ahead/real-time dual-market price forecasting, wind/PV generation forecasting, and aggregated customer load forecasting.
         *   Adapted and deployed forecasting services on 信创 servers for stable production operation.
 
-*   **Algorithm Engineer Intern** | **Trina Solar International Research Center (Singapore)**
+*   **Algorithm Engineer** | **Trina Solar International Research Center (Singapore)**
     *   2024 - 2025
     *   **Responsibilities**:
         *   **Insight & Analysis**: Conducted industry trend analysis and defined model development directions based on customer requirements.
