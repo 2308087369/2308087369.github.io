@@ -8,36 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<section class="energy-hero" aria-label="AI 与绿色能源">
-  <div class="energy-hero__content">
-    <p class="energy-hero__eyebrow">AI × Sustainable Energy</p>
-    <h1>让数据与<em>绿色能源</em>协同生长。</h1>
-    <p class="energy-hero__lead">我是一名机器学习工程师，专注于将预测、优化与大模型能力带入真实的能源业务场景。</p>
-    <div class="energy-hero__actions">
-      <a class="energy-button" href="/open-projects/">探索项目 <span aria-hidden="true">→</span></a>
-      <a class="energy-button energy-button--quiet" href="/cv/">查看履历</a>
-    </div>
-  </div>
-</section>
-
-<section class="energy-focus" aria-label="关注方向">
-  <article class="energy-focus__item">
-    <div class="energy-focus__icon" aria-hidden="true">⌁</div>
-    <h3>智能调度</h3>
-    <p>面向源网荷储协同与虚拟电厂的优化决策。</p>
-  </article>
-  <article class="energy-focus__item">
-    <div class="energy-focus__icon" aria-hidden="true">↗</div>
-    <h3>时序预测</h3>
-    <p>围绕负荷、电价与新能源功率建立可靠预见。</p>
-  </article>
-  <article class="energy-focus__item">
-    <div class="energy-focus__icon" aria-hidden="true">✦</div>
-    <h3>AI 应用</h3>
-    <p>探索大模型在能源数据分析与业务协同中的价值。</p>
-  </article>
-</section>
-
 👋 你好！我是 **陈波 (Bo Chen)**。
 
 目前，我担任 **协鑫集团 (GCL Group)** 子公司的 **机器学习工程师**，同时承担能源数字化产品的产品规划与算法落地工作。我的主要方向是 **AI + 能源**：围绕虚拟电厂、电力市场、源网荷储协同和时间序列预测，推动算法从模型研发走向真实业务部署，并探索大模型在能源垂类场景中的应用。
